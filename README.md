@@ -27,7 +27,7 @@
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-VueJs-05122A?style=flat&logo=vue.js)&nbsp;
 
-### 🛠 &nbsp;Backtend
+### 🛠 &nbsp;Backend
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
